@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 Hi, I'm Hong Nhung
 
 > 🎯 **Aspiring Business Analyst | IT Undergraduate | Automation Enthusiast**
@@ -71,3 +72,4 @@ I am particularly interested in using technology and automation to make business
 ---
 
 ⭐ *Thanks for visiting my profile!*
+=====
