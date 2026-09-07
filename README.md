@@ -73,12 +73,16 @@ Building things on the server-side, breaking things on purpose to learn
 
 ### 🎯 The Mission
 
-```mermaid
-graph LR
-    A[Business Problem] --> B[Clean Backend Logic]
-    B --> C[Reliable API]
-    C --> D[Scalable System]
-    D --> E[Happy Users 🎉]
+```text
+Business Problem
+       ↓
+Clean Backend Logic
+       ↓
+Reliable API
+       ↓
+Scalable System
+       ↓
+Happy Users 🎉
 ```
 
 I want to be the dev who turns messy requirements into **APIs that just work** — fast, secure, and built to scale.
