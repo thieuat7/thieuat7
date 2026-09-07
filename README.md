@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👋 Hi, I'm Hong Nhung
 
 > 🎯 **Aspiring Business Analyst | IT Undergraduate | Automation Enthusiast**
