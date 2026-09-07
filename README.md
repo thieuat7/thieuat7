@@ -75,7 +75,7 @@ Building things on the server-side, breaking things on purpose to learn
 
 ```mermaid
 graph LR
-    A[Business Problem] --> B{Clean Backend Logic}
+    A[Business Problem] --> B[Clean Backend Logic]
     B --> C[Reliable API]
     C --> D[Scalable System]
     D --> E[Happy Users 🎉]
