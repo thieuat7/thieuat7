@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Quang Thieu
 
-### `Backend Developer in the making` — turning coffee ☕ into APIs since 2022
+### `Backend Developer`
 
 <br/>
 
